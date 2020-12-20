@@ -1,5 +1,5 @@
-import * as React from 'react';
-import styled from 'styled-components';
+import * as React from "react";
+import styled from "styled-components";
 
 const Container = styled.div`
   display: flex;
@@ -10,9 +10,12 @@ const Header = styled.h1``;
 
 const IndexPage = () => {
   return (
-    <Container>
-      <Header>Hello</Header>
-    </Container>
+    <main>
+      <title>gousse</title>
+      <Container>
+        <Header>Hello</Header>
+      </Container>
+    </main>
   );
 };
 
