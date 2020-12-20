@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "gousse",
-    siteUrl: "https://gousse.club"
+    siteUrl: "https://gousse.club",
   },
   plugins: [
     "gatsby-plugin-styled-components",
@@ -13,6 +13,7 @@ module.exports = {
     },
     "gatsby-plugin-sharp",
     "gatsby-plugin-sitemap",
+    "gatsby-plugin-react-helmet",
     "gatsby-transformer-sharp",
     {
       resolve: "gatsby-source-filesystem",
