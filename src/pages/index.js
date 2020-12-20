@@ -72,7 +72,7 @@ const IndexPage = () => {
       <Container>
         <Header>
           <PageNameContainer>
-            <PageNameText>Home</PageNameText>
+            <PageNameText>Honk</PageNameText>
             <PageNameSubtext>(Home)</PageNameSubtext>
           </PageNameContainer>
           <PageNameContainer>
