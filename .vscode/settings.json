@@ -1,0 +1,10 @@
+{
+    "vim.overrideCopy": false,
+    "vim.useSystemClipboard": true,
+    "editor.formatOnSave": true,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.tabSize": 2,
+    "editor.comments.ignoreEmptyLines": false
+  }
